@@ -3,7 +3,7 @@ const router = express.Router();
 
 router.get('/', function(req, res) {
     return res.status(400).json({
-        message: 'Please request the correct routes! Check "https://github.com/Rohanchaudhary94/Hospital-API-For-Covid-19/blob/master/README.md" for documentation.'
+        message: 'Please request the correct routes! Check "https://github.com/manikantakatakam/HospitalAPI/blob/master/README.md" for documentation.'
     }
 )});
 
