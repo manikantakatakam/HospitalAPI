@@ -2,9 +2,9 @@
 
 An API created using NodeJS for the doctors of a hospital to take care of everything about patients
 
+## Deployed on Render
 
-
-
+### https://hospitalapi-g8p4.onrender.com
 
 ## Documentation
 
@@ -35,6 +35,6 @@ Folder Structure
     c. routes - Contains all the routes.
     d. controllers - Contains all the controllers.
     e. config - Contains all the config files.
-## Authors
+## Author
 
 - [@MANIKANTA_KATAKAM](https://github.com/manikantakatakam)
